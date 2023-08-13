@@ -4,4 +4,4 @@
 2. Set keycloak admin `username` and `password` in `.env` file.
 3. Set keycloak `PORT` in `.env` file.
 4. Run `docker-compose up` command to run the server
-5. Visit http://localhost:<PORT>
+5. Visit http://localhost:PORT
